@@ -11,7 +11,6 @@
   "author": "Facfac5000",
   "license": "MIT",
   "devDependencies": {
-    "cross-env": "^7.0.3",
     "jest": "^28.1.0",
     "mongodb-memory-server": "^8.6.0",
     "nodemon": "^2.0.16",
